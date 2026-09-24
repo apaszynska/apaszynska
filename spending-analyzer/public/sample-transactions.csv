@@ -1,0 +1,31 @@
+Booking Date,Value Date,Partner Name,Partner Iban,Type,Payment Reference,Account Name,Amount (EUR),Original Amount,Original Currency,Exchange Rate
+2026-09-20,2026-09-20,Biedronka 1234,,Presentment,,DemoKonto,-42.50,42.50,PLN,0.23
+2026-09-19,2026-09-19,Lidl sagt Danke,,Presentment,,DemoKonto,-18.90,18.90,EUR,1
+2026-09-18,2026-09-18,Żabka 5521,,Presentment,,DemoKonto,-12.40,12.40,PLN,0.23
+2026-09-17,2026-09-17,COSTA COFFEE Centrum,,Presentment,,DemoKonto,-6.50,6.50,EUR,1
+2026-09-16,2026-09-16,UBER *EATS,,Presentment,,DemoKonto,-24.80,24.80,EUR,1
+2026-09-15,2026-09-15,ORLEN STACJA NR 100,,Presentment,,DemoKonto,-55.00,55.00,PLN,0.23
+2026-09-14,2026-09-14,Netflix.com,,Presentment,,DemoKonto,-15.99,15.99,EUR,1
+2026-09-13,2026-09-13,Spotify AB,,Presentment,,DemoKonto,-10.99,10.99,EUR,1
+2026-09-12,2026-09-12,Kiwi.com,,Presentment,,DemoKonto,-89.00,89.00,EUR,1
+2026-09-11,2026-09-11,Allegro.pl,,Presentment,,DemoKonto,-67.20,67.20,PLN,0.23
+2026-09-10,2026-09-10,Medicover Centrum,,Presentment,,DemoKonto,-120.00,120.00,PLN,0.23
+2026-09-09,2026-09-09,Administracja Osiedle,,Direct Debit,Czynsz wrzesień,DemoKonto,-850.00,850.00,EUR,1
+2026-09-08,2026-09-08,BOLT.EU RIDE,,Presentment,,DemoKonto,-11.40,11.40,EUR,1
+2026-09-07,2026-09-07,ZARA Store,,Presentment,,DemoKonto,-79.90,79.90,EUR,1
+2026-09-06,2026-09-06,Starbucks Coffee,,Presentment,,DemoKonto,-5.20,5.20,EUR,1
+2026-09-05,2026-09-05,Rossmann 42,,Presentment,,DemoKonto,-22.15,22.15,EUR,1
+2026-09-04,2026-09-04,Demo Partner,,MoneyBeam,,DemoKonto,-40.00,40.00,EUR,1
+2026-09-03,2026-09-03,McDonalds,,Presentment,,DemoKonto,-14.60,14.60,EUR,1
+2026-09-02,2026-09-02,Empik S.A.,,Presentment,,DemoKonto,-31.00,31.00,PLN,0.23
+2026-09-01,2026-09-01,Pracodawca Sp. z o.o.,,Credit Transfer,Wynagrodzenie 08/2026,DemoKonto,2800.00,2800.00,EUR,1
+2026-08-28,2026-08-28,Lidl sagt Danke,,Presentment,,DemoKonto,-27.30,27.30,EUR,1
+2026-08-27,2026-08-27,19grams,,Presentment,,DemoKonto,-4.90,4.90,EUR,1
+2026-08-26,2026-08-26,UBER *TRIP,,Presentment,,DemoKonto,-9.80,9.80,EUR,1
+2026-08-25,2026-08-25,Booking.com,,Presentment,,DemoKonto,-145.00,145.00,EUR,1
+2026-08-24,2026-08-24,APPLE.COM/BILL,,Presentment,,DemoKonto,-3.49,3.49,EUR,1
+2026-08-23,2026-08-23,Decathlon,,Presentment,,DemoKonto,-54.00,54.00,EUR,1
+2026-08-22,2026-08-22,KFC Restaurant,,Presentment,,DemoKonto,-16.20,16.20,EUR,1
+2026-08-21,2026-08-21,Biedronka 88,,Presentment,,DemoKonto,-38.70,38.70,PLN,0.23
+2026-08-20,2026-08-20,PGE Obrót,,Direct Debit,Prąd,DemoKonto,-95.00,95.00,EUR,1
+2026-08-19,2026-08-19,Glovo App,,Presentment,,DemoKonto,-28.50,28.50,EUR,1
